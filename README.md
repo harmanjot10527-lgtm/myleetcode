@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/harmanjot10527-lgtm/myleetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/harmanjot10527-lgtm/myleetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
